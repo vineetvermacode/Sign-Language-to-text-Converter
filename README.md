@@ -11,5 +11,7 @@ Includes a recommendation system to suggest possible word matches for user input
 ## Technologies Used:
 
 Python for development.
-TensorFlow and Keras for machine learning model implementation.
-OpenCV for image processing and real-time video feed handling.
+
+1. TensorFlow and Keras for machine learning model implementation.
+
+2. OpenCV for image processing and real-time video feed handling.
